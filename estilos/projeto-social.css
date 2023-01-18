@@ -32,5 +32,13 @@ main{
     height: 627px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
+}
 
+#home{
+    position: relative;
+    top: 80px;
+    left: 23px;
+    width: 264.5px;
+    height: 470px;
+    background-size: cover;
 }
